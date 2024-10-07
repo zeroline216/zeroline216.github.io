@@ -17,6 +17,6 @@ intro:
 
 ## Title
 
-Body
+Hello World!
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
